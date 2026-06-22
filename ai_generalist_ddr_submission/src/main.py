@@ -1,27 +1,3 @@
-"""
-AI Generalist Assignment - DDR Report Generator
-
-Strict data rule:
-- Uses only the two provided PDFs in input/:
-  1. Sample Report.pdf
-  2. Thermal Images.pdf
-- Does not call the internet.
-- Does not invent facts. Missing/unclear fields are written as Not Available.
-
-Run:
-    pip install -r requirements.txt
-    python src/main.py
-
-Outputs:
-    outputs/DDR_Report.docx
-    outputs/DDR_Report.pdf
-    outputs/thermal_readings_extracted.csv
-    outputs/inspection_text.txt
-    outputs/thermal_text.txt
-    output_images/inspection_pages/*.png
-    output_images/thermal_pages/*.png
-"""
-
 from __future__ import annotations
 
 import csv
