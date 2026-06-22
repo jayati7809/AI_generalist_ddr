@@ -193,15 +193,5 @@ Client-Ready Outputs
 * Batch report processing
 * Advanced image classification and annotation
 
----
-
-## Assignment Deliverables
-
-* Source Code
-* DDR Report (DOCX)
-* DDR Report (PDF)
-* Thermal Readings CSV
-* Loom Demonstration Video
-* GitHub Repository
 
 
